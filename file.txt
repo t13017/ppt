@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 Feature Branch content
+>>>>>>> merge2
